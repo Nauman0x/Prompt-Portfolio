@@ -29,9 +29,9 @@ This work directly validates the core outcomes achieved during my tenure at **Ha
 
 | **Project Name**         | **Agent Type**              | **Primary Objective**                                                                                                                                                    | **Access Link**                       |
 |---------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| **MediLink Health Services** | Voice (Inbound Receptionist) | Qualify leads based on insurance and service needs and either transfer the call to a specialist or schedule a same-day appointment. | [Access MediLink Project Folder](#) |
-| **Skyline Realtors**        | Voice (Outbound Lead Qualifier) | Qualify real estate leads based on financial criteria (minimum budget: PKR 10M) and urgency, while handling IVR/Voicemail protocols. | [Access Sky Realtor Project Folder](#) |
-| **ShopNexa**               | Chat Agent (Text/SMS)        | Qualify e-commerce support requests, resolve issues via FAQ knowledge base, handle objections, and schedule support callbacks. | [Access ShopNexa Project Folder](#) |
+| **MediLink Health Services** | Voice (Inbound Receptionist) | Qualify leads based on insurance and service needs and either transfer the call to a specialist or schedule a same-day appointment. | [Access MediLink Project Folder](https://drive.google.com/drive/folders/1yhcmfIIaLUbjgfetupg0k35NIRv8iz_w?usp=drive_link) |
+| **Skyline Realtors**        | Voice (Outbound Lead Qualifier) | Qualify real estate leads based on financial criteria (minimum budget: PKR 10M) and urgency, while handling IVR/Voicemail protocols. | [Access Sky Realtor Project Folder](https://drive.google.com/drive/folders/1twryIni6aMLIT5EDGy-Rqa4qsHG9v9oH?usp=drive_link) |
+| **ShopNexa**               | Chat Agent (Text/SMS)        | Qualify e-commerce support requests, resolve issues via FAQ knowledge base, handle objections, and schedule support callbacks. | [Access ShopNexa Project Folder](https://drive.google.com/drive/folders/1Mh7SLYyXp_SOjV5B1LqKz2D4TrxXeDxW?usp=drive_link) |
 
 ---
 
