@@ -18,9 +18,9 @@ This work directly validates the core outcomes achieved during my tenure at Hatz
 
 | Project Name | Agent Type | Primary Objective | Prompt Document (PDF) | Test Recording Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **MediLink Health Services** | Voice (Inbound Receptionist) | Qualify leads based on insurance and service needs, and either **transfer the call to a specialist** or schedule a same-day appointment. | [`Prompts/MediLink-Inbound-Rep.pdf`](./Prompts/MediLink-Inbound-Rep.pdf) | **[`Recordings/MediLink-Test-Call.mp3`]** |
-| **Skyline Realtors** | Voice (Outbound Lead Qualifier) | Qualify real estate leads based on financial criteria (**minimum budget: PKR 10M**) and urgency, while handling IVR/Voicemail protocols. | [`Prompts/Sky-Realtor-Outbound.pdf`](./Prompts/Sky-Realtor-Outbound.pdf) | **[`Recordings/SkylineRealtors-Test-Call.mp3`]** |
-| **ShopNexa** | Text (Website/SMS Support) | Qualify e-commerce support requests, resolve issues via **FAQ knowledge base**, and successfully handle customer objections to schedule callbacks. | [`Prompts/Shop-Nexa-Texting.pdf`](./Prompts/Shop-Nexa-Texting.pdf) | **[`Recordings/ShopNexa-Test-Chat.mp4`]** |
+| **MediLink Health Services** | Voice (Inbound Receptionist) | Qualify leads based on insurance and service needs, and either **transfer the call to a specialist** or schedule a same-day appointment. | 
+| **Skyline Realtors** | Voice (Outbound Lead Qualifier) | Qualify real estate leads based on financial criteria (**minimum budget: PKR 10M**) and urgency, while handling IVR/Voicemail protocols. 
+| **ShopNexa** | Text (Website/SMS Support) | Qualify e-commerce support requests, resolve issues via **FAQ knowledge base**, and successfully handle customer objections to schedule callbacks. 
 
 ---
 
